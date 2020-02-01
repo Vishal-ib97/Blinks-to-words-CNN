@@ -4,7 +4,7 @@
 wget http://paw.idav.ucdavis.edu/albara/bwcnn/imx.zip
 
 ## Download the models [for the prediction phase]
-replace this folder with the exsist one
+replace this folder with the existing one
 
 wget http://paw.idav.ucdavis.edu/albara/bwcnn/best-models.zip
 
